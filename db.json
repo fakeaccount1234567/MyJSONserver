@@ -1,22 +1,52 @@
 {
-    "glossary": {
-        "title": "example glossary",
-		"GlossDiv": {
-            "title": "S",
-			"GlossList": {
-                "GlossEntry": {
-                    "ID": "SGML",
-					"SortAs": "SGML",
-					"GlossTerm": "Standard Generalized Markup Language",
-					"Acronym": "SGML",
-					"Abbrev": "ISO 8879:1986",
-					"GlossDef": {
-                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
-						"GlossSeeAlso": ["GML", "XML"]
-                    },
-					"GlossSee": "markup"
-                }
-            }
-        }
+  "staffTravel": [
+    {
+      "employeeID": "010101",
+      "pin": 1111,
+      "significantOtherOne": {
+        "title": "Mrs",
+        "gender": "Female",
+        "forename": "rose",
+        "surname": "xyz"
+      },
+      "significantOtherTwo": {
+        "title": "Mr",
+        "gender": "Male",
+        "forename": "harry",
+        "surname": "xyz"
+      },
+      "significantOtherThree": {
+        "title": "Mrs",
+        "gender": "Female",
+        "forename": "marry",
+        "surname": "xyz"
+      },
+      "remChanges": 20,
+      "updated": "2024-03-29T10:52:59.383Z"
+    },
+    {
+      "employeeID": "020202",
+      "pin": 2222,
+      "significantOtherOne": {
+        "title": "Mrs",
+        "gender": "Female",
+        "forename": "",
+        "surname": ""
+      },
+      "significantOtherTwo": {
+        "title": "Mr",
+        "gender": "Male",
+        "forename": "",
+        "surname": ""
+      },
+      "significantOtherThree": {
+        "title": "Mrs",
+        "gender": "Female",
+        "forename": "",
+        "surname": ""
+      },
+      "remChanges": 20,
+      "updated": "2024-03-29T10:52:59.383Z"
     }
+  ]
 }

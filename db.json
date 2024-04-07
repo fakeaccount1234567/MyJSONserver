@@ -1,7 +1,7 @@
 {
   "staffTravel": [
     {
-      "emailID":"akshat.jain@easyjet.com"
+      "emailID":"akshat.jain@easyjet.com",
       "employeeID": "010101",
       "pin": 1111,
       "significantOtherOne": {
@@ -26,7 +26,7 @@
       "updated": "2024-03-29T10:52:59.383Z"
     },
     {
-      "emailID":"manendra.mannu@easyjet.com"
+      "emailID":"manendra.mannu@easyjet.com",
       "employeeID": "020202",
       "pin": 2222,
       "significantOtherOne": {

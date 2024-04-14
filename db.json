@@ -5,9 +5,9 @@
             "email": "Akshat.Jain@easyJet.com",
             "pin": 1111,
             "significantOtherOne": {
-                "title": "Mrs",
-                "gender": "Female",
-                "forename": "rose",
+                "title": "infant",
+                "gender": "Male",
+                "forename": "rohit",
                 "surname": "xyz"
             },
             "significantOtherTwo": {
@@ -30,20 +30,20 @@
             "email": "",
             "pin": 2222,
             "significantOtherOne": {
-                "title": "Mrs",
-                "gender": "Female",
+                "title": "",
+                "gender": "",
                 "forename": "",
                 "surname": ""
             },
             "significantOtherTwo": {
-                "title": "Mr",
-                "gender": "Male",
+                "title": "",
+                "gender": "",
                 "forename": "",
                 "surname": ""
             },
             "significantOtherThree": {
-                "title": "Mrs",
-                "gender": "Female",
+                "title": "",
+                "gender": "",
                 "forename": "",
                 "surname": ""
             },

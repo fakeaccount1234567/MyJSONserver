@@ -23,7 +23,7 @@
                 "surname": "xyz"
             },
             "remChanges": 20,
-            "updated": "2024-03-29T10:52:59.383Z"
+            "updated": "2024/03/29"
         },
         {
             "employeeID": "020202",
@@ -48,7 +48,7 @@
                 "surname": ""
             },
             "remChanges": 20,
-            "updated": "2024-03-29T10:52:59.383Z"
+            "updated": "2024/03/29"
         }
     ]
 }

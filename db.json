@@ -1,6 +1,7 @@
 {
     "staffTravel": [
-        {    "id":1,
+        {   
+            "id":1,
             "employeeID": "010101",
             "email": "Akshat.Jain@easyJet.com",
             "pin": 1111,
@@ -26,7 +27,7 @@
             "updated": "29/03/2024"
         },
         {
-            "id"=2,
+            "id":2,
             "employeeID": "020202",
             "email": "",
             "pin": 2222,
